@@ -1,4 +1,5 @@
 # learning-the-shell
+This repo gives an overview of the basic language of the command line such as the structure of commands, file system navigation, command line editing, and finding help and documentation for commands.
 ## Redirecting Standard Output
 To redirect standard output to a file instead of the screen, we use the ">" redirection operator followed by the name of the file.
 ```
